@@ -1,2 +1,1 @@
-# emoji_project
-Kalvium Onboarding
+# my_emojis
